@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="file:///C:/Sajin/Project Deployments/bRidgeOver/bRidge_Over_Installer.appinstaller"
+	Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidge_Over_Installer.appinstaller"
 	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="012adf5b-8678-477f-ae54-b96f9146241b"
 		Version="1.0.0.0"
 		Publisher="CN=Sajin"
-		Uri="file:///C:/Sajin/Project Deployments/bRidgeOver/bRidge_Over_Installer_1.0.0.0_Test/bRidge_Over_Installer_1.0.0.0_x86_x64.msixbundle" />
+		Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidge_Over_Installer_1.0.0.0_Test/bRidge_Over_Installer_1.0.0.0_x86_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
