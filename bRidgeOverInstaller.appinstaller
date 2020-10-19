@@ -6,7 +6,7 @@
 		Name="cb911b88-3fa0-491f-a7a1-b24f7994dba7"
 		Version="1.0.0.0"
 		Publisher="CN=P10469508"
-		Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller_1.0.0.0_Test/bRidgeOverInstaller_1.0.0.0_x86_x64.appxbundle" />
+		Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller_1.0.0.0_Debug_Test/bRidgeOverInstaller_1.0.0.0_x86_x64_Debug.appxbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
