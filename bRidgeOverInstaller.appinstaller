@@ -3,7 +3,7 @@
 	Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller.appinstaller"
 	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
-		Name="c47a965a-2658-4097-bd6f-19108e5ea3c6"
+		Name="fc8dba2c-2207-47bb-b9cb-6f4aab094854"
 		Version="1.0.3.0"
 		Publisher="CN=Sajin"
 		Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller_1.0.3.0_Test/bRidgeOverInstaller_1.0.3.0_x86_x64.appxbundle" />
