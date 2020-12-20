@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOver/bRidgeOverInstaller.appinstaller"
+	Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller.appinstaller"
 	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="c47a965a-2658-4097-bd6f-19108e5ea3c6"
