@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller.appinstaller"
-	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
-		Name="fcb716e7-8221-4eec-b518-c31ded7f895f"
-		Version="1.0.5.0"
+		Name="ab1923b2-9eec-431b-999e-860d7d9a8174"
+		Version="1.0.6.0"
 		Publisher="CN=Sajin Soman"
-		Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller_1.0.5.0_Test/bRidgeOverInstaller_1.0.5.0_x86_x64.appxbundle" />
+		Uri="https://fox333-lab.github.io/bRidgeOver_Deployment/bRidgeOverInstaller_1.0.6.0_Test/bRidgeOverInstaller_1.0.6.0_x86_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
